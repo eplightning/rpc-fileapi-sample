@@ -1,7 +1,0 @@
-client.c
-nfs.h
-nfs.x
-nfs_clnt.c
-nfs_svc.c
-nfs_xdr.c
-server.c

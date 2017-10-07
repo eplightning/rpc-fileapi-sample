@@ -1,0 +1,8 @@
+nfs.config
+nfs.creator
+nfs.creator.user
+nfs.files
+nfs.includes
+*.o
+client
+server
